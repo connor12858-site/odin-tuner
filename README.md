@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 # Front End
 ## Visible
-This is a typescript site that will take a file input of `.odni` only. From here we send a api request to [**ODIN Tuner Backend**](https://github.com/Connor12858/odin-tuner-backends) to get the values from the file.
+This is a typescript site that will take a file input of `.odni` only. From here we send a api request to [**ODIN Tuner Backend**](https://github.com/Connor12858/odin-tuner-backend) to get the values from the file.
 
 ## Hosting
 Vercel host's the site at [ODIN-Tuner](https://odin-tuner.vercel.app/). It will automatically update the site when there is a new commit.
